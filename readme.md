@@ -1,2 +1,2 @@
-Write a C program to insert an element into a sorted array.
-Write a C program to insert an element into a sorted linked list.
+# 1. Write a C program to insert an element into a sorted array.
+# 2. Write a C program to insert an element into a sorted linked list.
